@@ -3,6 +3,11 @@
   "repo": "zope.traversing",
   "versions": [
     {
+      "commit": "fc88b5b4bae97641698898a24d09ec6ce99e8ef5",
+      "tag": "backups/3.5@112098",
+      "parsed_at": "2026-11-22T02:40:51.472183+00:00"
+    },
+    {
       "commit": "eea8b7a65166f2e3912185a00545683dc7e8fb13",
       "tag": "",
       "parsed_at": "2026-11-06T02:04:49.728020+00:00"
